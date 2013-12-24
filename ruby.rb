@@ -1,5 +1,5 @@
 #  What is Ruby
-#    - Ruby was created by Yukihiro Matsumoto(ËÉ±¾ĞĞºë, 1965/4/14-?) in 1993
+#    - Ruby was created by Yukihiro Matsumoto(æ¾æœ¬è¡Œå¼˜, 1965/4/14-?) in 1993
 #    - It's a scripting language
 #      -- Interpreted
 #      -- Dynamic
