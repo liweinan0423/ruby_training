@@ -114,7 +114,7 @@ end                                            #
 ################################################
 
 #  5 Blocks, Procedure and Lambda Expression
-#    5.1  Block is an anonymous section of code that can doesn't be binded to any object
+#    5.1  Block is an anonymous section of code that doesn't be bound to any object
 #         which can access the data from the context in which it is executed
 #    5.2  Procedure is a object, which represents a block. We call it 'Named Block'
 #    5.3  Lambda is an expression, which can be used to create a procedure
