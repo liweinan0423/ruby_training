@@ -188,7 +188,7 @@ class Human2                                  #
                                               #
   def initialize(name)                        #
     @name = name if name                      #
-	self.initialize unless name               #
+    self.initialize unless name               #
   end                                         #
                                               #
   def initialize                              #
@@ -251,7 +251,7 @@ A.new.m                                       #
 module Training                               #
   module Ruby                                 #
     class A                                   #
-	end                                       #
+    end                                       #
   end                                         #
 end                                           #
                                               #
