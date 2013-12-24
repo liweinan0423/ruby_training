@@ -220,7 +220,7 @@ class Boy < Human                             #
                                               #
   def greeting                                #
     puts super                                #
-	puts "I am #{Boy.gender}"                 #
+    puts "I am #{Boy.gender}"                 #
   end                                         #
 end                                           #
                                               #
